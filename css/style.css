@@ -1642,23 +1642,23 @@ textarea::placeholder {
 
 .sub-main {
     padding: 30px 0;
-    background: #F7B100;
+    background: #FFFFFF;
     border-radius: 50px;
 }
 
 .sub-main h3 {
     padding-left: 60px;
     font-size: 26px;
-    color: white;
+    color: black;
     font-family: pb;
 }
 
 .sub-main a {
-    background: white;
+    background: black;
     padding: 15px 25px;
     border-radius: 50px;
     font-family: pb;
-    color: #F7B100;
+    color: white;
     font-size: 18px;
 }
 
@@ -1696,7 +1696,8 @@ textarea::placeholder {
     color: #F7B100;
     background: white;
     font-size: 20px;
-    margin-right: 13px;
+    margin-left: 13px;
+    margin-top: 15px;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
     transition: all linear .3s;
@@ -1823,3 +1824,20 @@ textarea::placeholder {
     color: #F7B100;
     font-family: pb;
 }
+
+.logo_main {
+    width: 100px;
+    height: auto;
+}
+
+.logo_footer{
+    width: 280px;
+    height: auto;
+}
+
+@media screen and (min-width: 300px) and (max-width: 500px) {
+    .logo_main {
+        width: 50px;
+        height: auto;
+    }
+} 
