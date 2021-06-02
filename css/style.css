@@ -610,7 +610,7 @@ p {
     content: '';
     top: 10px;
     left: 0;
-    background: #db5536;
+    background: #ca8d1e;
     z-index: -1;
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
@@ -1667,7 +1667,7 @@ textarea::placeholder {
 =============================*/
 
 #footer {
-    padding: 120px 0 85px;
+    padding: 80px 0 85px;
     background: #151515;
     border-bottom: 1px solid #151515;
     border-top: 2px dashed #222;
