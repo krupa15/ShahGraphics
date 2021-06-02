@@ -495,7 +495,7 @@ p {
 
 .nav-bg {
     background: #161616 !important;
-    padding: 25px 0;
+    padding: 10px 0;
     -webkit-box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
     box-shadow: 0 31px 35px rgba(0, 0, 0, .1);
 }
@@ -1836,8 +1836,5 @@ textarea::placeholder {
 }
 
 @media screen and (min-width: 300px) and (max-width: 500px) {
-    .logo_main {
-        width: 50px;
-        height: auto;
-    }
+    
 } 
