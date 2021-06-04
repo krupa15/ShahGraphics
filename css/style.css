@@ -1838,3 +1838,8 @@ textarea::placeholder {
 @media screen and (min-width: 300px) and (max-width: 500px) {
     
 } 
+
+.custom_h4 {
+    color: white;
+    padding-bottom: 5px;
+}
