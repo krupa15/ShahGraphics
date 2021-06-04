@@ -1231,8 +1231,8 @@ over-btn a i {
 .team-item img {
     border-radius: 30% 84% 28% 76% / 87% 23% 69% 29%;
     border: 6px solid #F7B100;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    /*-webkit-filter: grayscale(100%);
+    filter: grayscale(100%);*/
     -webkit-transition: all linear .3s;
     -o-transition: all linear .3s;
     transition: all linear .3s;
@@ -1842,4 +1842,14 @@ textarea::placeholder {
 .custom_h4 {
     color: white;
     padding-bottom: 5px;
+}
+
+.custom2_h4 {
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cutom-mb40 {
+    margin-bottom: 40px !important;
 }
