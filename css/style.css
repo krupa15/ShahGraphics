@@ -1853,3 +1853,8 @@ textarea::placeholder {
 .cutom-mb40 {
     margin-bottom: 40px !important;
 }
+
+.custom_hw {
+    width: 180px !important;
+    height: 180px !important;
+}
