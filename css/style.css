@@ -1052,7 +1052,7 @@ over-btn a i {
 }
 
 .gallery-pa {
-    padding-top: 80px;
+    padding-top: 40px;
 }
 
 .gallery-img img {
@@ -1924,3 +1924,14 @@ bottom: 0;
     width: 15px;
 }
 }
+
+
+.my-nav {
+    color: #fff !important;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: transparent !important;
+    color: #F7B100 !important;
+}
+
